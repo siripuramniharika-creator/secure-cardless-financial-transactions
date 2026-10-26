@@ -287,31 +287,35 @@ The following test scenarios can be used to evaluate the application.
 ### 1. User Registration
 Displays the registration interface for new users.
 
-![User Registration] <img width="1340" height="604" alt="image" src="https://github.com/user-attachments/assets/54d9e8c6-afb6-4b08-b199-a01a3a3c04a2" />
+<img width="1340" height="604" alt="image" src="https://github.com/user-attachments/assets/54d9e8c6-afb6-4b08-b199-a01a3a3c04a2" />
 
 
 ### 2. User Login
 Provides the login interface for registered users.
 
-![User Login] <img width="1366" height="456" alt="image" src="https://github.com/user-attachments/assets/f0c2eb1f-2d8e-46b8-a991-27805fc2feef" />
+<img width="1366" height="456" alt="image" src="https://github.com/user-attachments/assets/f0c2eb1f-2d8e-46b8-a991-27805fc2feef" />
+
 
 ### 3. Facial Recognition
 Demonstrates the facial recognition authentication process.
 
-![Facial Recognition] <img width="640" height="514" alt="image" src="https://github.com/user-attachments/assets/3fe76f6a-6ede-4ce9-b591-51461c82070c" />
+<img width="640" height="514" alt="image" src="https://github.com/user-attachments/assets/3fe76f6a-6ede-4ce9-b591-51461c82070c" />
+
 
 ### 4. OTP Verification
 Displays the OTP verification interface.
 
-![OTP Verification] <img width="1364" height="550" alt="image" src="https://github.com/user-attachments/assets/afc816ed-76b3-44f4-8312-4345bbc618ae" />
+<img width="1364" height="550" alt="image" src="https://github.com/user-attachments/assets/afc816ed-76b3-44f4-8312-4345bbc618ae" />
+
 
 ### 5. Transaction Processing
 Demonstrates the cardless transaction process.
 
-![Transaction Processing] <img width="631" height="429" alt="image" src="https://github.com/user-attachments/assets/89af8e27-688b-4a03-9154-65ef5a8938d9" />
+<img width="631" height="429" alt="image" src="https://github.com/user-attachments/assets/89af8e27-688b-4a03-9154-65ef5a8938d9" />
+
 
 ### 6. Transaction History
 Displays previous transaction records.
 
-![Transaction History] <img width="1331" height="464" alt="image" src="https://github.com/user-attachments/assets/7041e5ac-09d8-48ee-bd12-52b4d39f94a8" />
+<img width="1331" height="464" alt="image" src="https://github.com/user-attachments/assets/7041e5ac-09d8-48ee-bd12-52b4d39f94a8" />
 
